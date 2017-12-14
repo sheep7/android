@@ -49,7 +49,9 @@
                 android:layout_toRightOf="@+id/fdIcon"
                 android:orientation="vertical"
                 android:paddingLeft="@dimen/standard_padding"
-                android:paddingStart="@dimen/standard_padding">
+                android:paddingStart="@dimen/standard_padding"
+                android:paddingRight="@dimen/zero"
+                android:paddingEnd="@dimen/zero">
 
                 <TextView
                     android:id="@+id/fdFilename"
@@ -201,6 +203,7 @@
                 android:orientation="horizontal">
 
                 <ImageView
+                    android:contentDescription="@string/shared_icon"
                     android:id="@+id/fdShareLinkIcon"
                     android:layout_width="14sp"
                     android:layout_height="14sp"
