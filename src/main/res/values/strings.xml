@@ -110,7 +110,6 @@
     <string name="file_list_empty_text_photos_filter">Your search returned no photos.</string>
     <string name="file_list_empty_text_videos">Upload some videos or activate auto upload.</string>
     <string name="file_list_empty_text_videos_filter">Your search returned no videos.</string>
-    <string name="file_item_metadata_separator" translatable="false">,</string>
     <string name="upload_list_empty_headline">No uploads available</string>
     <string name="upload_list_empty_text">Upload some content or activate instant uploading.</string>
     <string name="upload_list_empty_text_auto_upload">Upload some content or activate auto upload.</string>
@@ -120,7 +119,7 @@
     <string name="filedetails_sync_file">Synchronize</string>
     <string name="filedetails_renamed_in_upload_msg">File renamed to %1$s during upload</string>
     <string name="list_layout">Listed layout</string>
-    <string name="action_share">Share</string>
+    <string name="action_send_share">Send/Share</string>
     <string name="common_yes">Yes</string>
     <string name="common_no">No</string>
     <string name="common_ok">OK</string>
@@ -724,4 +723,8 @@
     <string name="prefs_category_dev">Dev</string>
     <string name="dev_version_no_information_available">No information available!</string>
     <string name="dev_version_no_new_version_available">No new version available!</string>
+    
+    <string name="send">Send</string>
+    <string name="share">Share</string>
+    <string name="link">Link</string>
 </resources>
